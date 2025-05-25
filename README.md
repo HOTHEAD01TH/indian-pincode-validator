@@ -552,7 +552,7 @@ MIT License - see [LICENSE.md](LICENSE.md) for details.
 
 ## 📞 Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/indian-pincode-validator/issues)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/HOTHEAD01TH/indian-pincode-validator/issues)
 - **Email**: support@indianpincodevalidator.com
 - **Documentation**: [Full API docs](https://docs.indianpincodevalidator.com)
 

@@ -40,7 +40,7 @@
     "cod",
     "shipping"
   ],
-  "author": "Your Name",
+  "author": "HOTHEAD01TH",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.5.14",
@@ -56,12 +56,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/indian-pincode-validator.git"
+    "url": "git+https://github.com/HOTHEAD01TH/indian-pincode-validator.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/indian-pincode-validator/issues"
+    "url": "https://github.com/HOTHEAD01TH/indian-pincode-validator/issues"
   },
-  "homepage": "https://github.com/yourusername/indian-pincode-validator#readme",
+  "homepage": "https://github.com/HOTHEAD01TH/indian-pincode-validator#readme",
   "files": [
     "dist",
     "LICENSE",

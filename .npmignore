@@ -1,0 +1,39 @@
+ # Source code
+src/
+test/
+scripts/
+
+# Configuration files
+tsconfig.json
+tsconfig.test.json
+jest.config.js
+.gitignore
+.npmignore
+
+# Development files
+.editorconfig
+.eslintrc
+.prettierrc
+.github/
+
+# Test files
+coverage/
+.nyc_output/
+
+# Build files
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env*
+.env.local
+.env.*.local
